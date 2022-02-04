@@ -99,3 +99,356 @@ KAIST 대학원 총학생회 중앙선거관리위원회 제50대 대학원 총�
 | 투표 안내문 부착 인건비 | - 인당 15,000 원/시간 (교내 스태프 중 난이도가 높은 경우에 해당) | 100,000 | 50,000 | 학생회계 |
 | 선거복권 이벤트 | - 선거복권 1등: 10만원*2명 지급(2명 배포)<br>- 선거복권 2등: 3만원*5명 지급(2명 배포)<br>- 선거복권 3등: 1만원*25명 지급(18명 배포) | 600,000 | 440,000 | 학생회계 | 
 | 회의비 | - 인당 10,000 원/회 이하<br>- 회의록 작성 필수 | 100,000 | 30,000 | 학생회계 |
+
+## 선거복권 당첨 및 수령 내역
+
+<table cellpadding="0" cellspacing="0" class="t1">
+    <tbody>
+        <tr>
+            <td class="td1" valign="middle">
+                <p class="p1"><strong>당첨</strong></p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1"><strong>선거복권</strong></p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1"><strong>이름</strong></p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1"><strong>메일</strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td class="td1" valign="middle">
+                <p class="p1">1차</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">1등 10만원 현금 (2명) /<span class="Apple-converted-space">&nbsp;</span></p>
+                <p class="p1">1st Prize<span class="Apple-converted-space">&nbsp;&nbsp;</span>100,000 won in cash</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">-</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">ti**@kaist.ac.kr</p>
+            </td>
+        </tr>
+        <tr>
+            <td class="td1" valign="middle">
+                <p class="p1">1차</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">1등 10만원 현금 (2명) /<span class="Apple-converted-space">&nbsp;</span></p>
+                <p class="p1">1st Prize 100,000 won in cash</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">-</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">mi**@kaist.ac.kr</p>
+            </td>
+        </tr>
+        <tr>
+            <td class="td1" valign="middle">
+                <p class="p1">1차</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">2등 3만원 상당 문화 상품권 (5명) /<span class="Apple-converted-space">&nbsp;</span></p>
+                <p class="p1">2nd Prize 30,000 won in gift-card</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">-</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">ah**@kaist.ac.kr</p>
+            </td>
+        </tr>
+        <tr>
+            <td class="td1" valign="middle">
+                <p class="p1">1차</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">2등 3만원 상당 문화 상품권 (5명) /<span class="Apple-converted-space">&nbsp;</span></p>
+                <p class="p1">2nd Prize 30,000 won in gift-card</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">-</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">dj**@kaist.ac.kr</p>
+            </td>
+        </tr>
+        <tr>
+            <td class="td1" valign="middle">
+                <p class="p1">1차</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">3등 1만원 상당 커피 상품권 (25명) /<span class="Apple-converted-space">&nbsp;</span></p>
+                <p class="p1">3rd Prize 10,000 won in coffee<span class="Apple-converted-space">&nbsp;&nbsp;</span>gift-card</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">-</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">sm**@kaist.ac.kr</p>
+            </td>
+        </tr>
+        <tr>
+            <td class="td1" valign="middle">
+                <p class="p1">1차</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">3등 1만원 상당 커피 상품권 (25명) /<span class="Apple-converted-space">&nbsp;</span></p>
+                <p class="p1">3rd Prize 10,000 won in coffee<span class="Apple-converted-space">&nbsp;&nbsp;</span>gift-card</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">-</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">hb**@kaist.ac.kr</p>
+            </td>
+        </tr>
+        <tr>
+            <td class="td1" valign="middle">
+                <p class="p1">1차</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">3등 1만원 상당 커피 상품권 (25명) /<span class="Apple-converted-space">&nbsp;</span></p>
+                <p class="p1">3rd Prize 10,000 won in coffee<span class="Apple-converted-space">&nbsp;&nbsp;</span>gift-card</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">-</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">ke**@kaist.ac.kr</p>
+            </td>
+        </tr>
+        <tr>
+            <td class="td1" valign="middle">
+                <p class="p1">1차</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">3등 1만원 상당 커피 상품권 (25명) /<span class="Apple-converted-space">&nbsp;</span></p>
+                <p class="p1">3rd Prize 10,000 won in coffee<span class="Apple-converted-space">&nbsp;&nbsp;</span>gift-card</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">-</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">se**@kaist.ac.kr</p>
+            </td>
+        </tr>
+        <tr>
+            <td class="td1" valign="middle">
+                <p class="p1">1차</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">3등 1만원 상당 커피 상품권 (25명) /<span class="Apple-converted-space">&nbsp;</span></p>
+                <p class="p1">3rd Prize 10,000 won in coffee<span class="Apple-converted-space">&nbsp;&nbsp;</span>gift-card</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">-</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p2"><a href="mailto:shkong@kaist.ac.kr">sh**@kaist.ac.kr</a></p>
+            </td>
+        </tr>
+        <tr>
+            <td class="td1" valign="middle">
+                <p class="p1">1차</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">3등 1만원 상당 커피 상품권 (25명) /<span class="Apple-converted-space">&nbsp;</span></p>
+                <p class="p1">3rd Prize 10,000 won in coffee<span class="Apple-converted-space">&nbsp;&nbsp;</span>gift-card</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">-</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">aj**8@kaist.ac.kr</p>
+            </td>
+        </tr>
+        <tr>
+            <td class="td1" valign="middle">
+                <p class="p1">1차</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">3등 1만원 상당 커피 상품권 (25명) /<span class="Apple-converted-space">&nbsp;</span></p>
+                <p class="p1">3rd Prize 10,000 won in coffee<span class="Apple-converted-space">&nbsp;&nbsp;</span>gift-card</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">-</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">zh**@kaist.ac.kr</p>
+            </td>
+        </tr>
+        <tr>
+            <td class="td1" valign="middle">
+                <p class="p1">1차</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">3등 1만원 상당 커피 상품권 (25명) /<span class="Apple-converted-space">&nbsp;</span></p>
+                <p class="p1">3rd Prize 10,000 won in coffee<span class="Apple-converted-space">&nbsp;&nbsp;</span>gift-card</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">-</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">ju**@kaist.ac.kr</p>
+            </td>
+        </tr>
+        <tr>
+            <td class="td1" valign="middle">
+                <p class="p1">1차</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">3등 1만원 상당 커피 상품권 (25명) /<span class="Apple-converted-space">&nbsp;</span></p>
+                <p class="p1">3rd Prize 10,000 won in coffee<span class="Apple-converted-space">&nbsp;&nbsp;</span>gift-card</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">-</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">mi**@kaist.ac.kr</p>
+            </td>
+        </tr>
+        <tr>
+            <td class="td1" valign="middle">
+                <p class="p1">1차</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">3등 1만원 상당 커피 상품권 (25명) /<span class="Apple-converted-space">&nbsp;</span></p>
+                <p class="p1">3rd Prize 10,000 won in coffee<span class="Apple-converted-space">&nbsp;&nbsp;</span>gift-card</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">-</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">mk**@kaist.ac.kr</p>
+            </td>
+        </tr>
+        <tr>
+            <td class="td1" valign="middle">
+                <p class="p1">1차</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">3등 1만원 상당 커피 상품권 (25명) /<span class="Apple-converted-space">&nbsp;</span></p>
+                <p class="p1">3rd Prize 10,000 won in coffee<span class="Apple-converted-space">&nbsp;&nbsp;</span>gift-card</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">-</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">so**i@kaist.ac.kr</p>
+            </td>
+        </tr>
+        <tr>
+            <td class="td1" valign="middle">
+                <p class="p1">1차</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">3등 1만원 상당 커피 상품권 (25명) /<span class="Apple-converted-space">&nbsp;</span></p>
+                <p class="p1">3rd Prize 10,000 won in coffee<span class="Apple-converted-space">&nbsp;&nbsp;</span>gift-card</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">-</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">si**@kaist.ac.kr</p>
+            </td>
+        </tr>
+        <tr>
+            <td class="td1" valign="middle">
+                <p class="p1">1차</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">3등 1만원 상당 커피 상품권 (25명) /<span class="Apple-converted-space">&nbsp;</span></p>
+                <p class="p1">3rd Prize 10,000 won in coffee<span class="Apple-converted-space">&nbsp;&nbsp;</span>gift-card</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">-</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">ju**@kaist.ac.kr</p>
+            </td>
+        </tr>
+        <tr>
+            <td class="td1" valign="middle">
+                <p class="p1">1차</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">3등 1만원 상당 커피 상품권 (25명) /<span class="Apple-converted-space">&nbsp;</span></p>
+                <p class="p1">3rd Prize 10,000 won in coffee<span class="Apple-converted-space">&nbsp;&nbsp;</span>gift-card</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">-</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">mi**@kaist.ac.kr</p>
+            </td>
+        </tr>
+        <tr>
+            <td class="td1" valign="middle">
+                <p class="p1">1차</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">3등 1만원 상당 커피 상품권 (25명) /<span class="Apple-converted-space">&nbsp;</span></p>
+                <p class="p1">3rd Prize 10,000 won in coffee<span class="Apple-converted-space">&nbsp;&nbsp;</span>gift-card</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">-</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">th**</p>
+                <p class="p1">@kaist.ac.kr</p>
+            </td>
+        </tr>
+        <tr>
+            <td class="td1" valign="middle">
+                <p class="p1">1차</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">3등 1만원 상당 커피 상품권 (25명) /<span class="Apple-converted-space">&nbsp;</span></p>
+                <p class="p1">3rd Prize 10,000 won in coffee<span class="Apple-converted-space">&nbsp;&nbsp;</span>gift-card</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">-</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">hy**@kaist.ac.kr</p>
+            </td>
+        </tr>
+        <tr>
+            <td class="td1" valign="middle">
+                <p class="p1">2차</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">3등 1만원 상당 커피 상품권 (25명) /<span class="Apple-converted-space">&nbsp;</span></p>
+                <p class="p1">3rd Prize 10,000 won in coffee<span class="Apple-converted-space">&nbsp;&nbsp;</span>gift-card</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">-</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">qa**@kaist.ac.kr</p>
+            </td>
+        </tr>
+        <tr>
+            <td class="td1" valign="middle">
+                <p class="p1">2차</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">3등 1만원 상당 커피 상품권 (25명) /<span class="Apple-converted-space">&nbsp;</span></p>
+                <p class="p1">3rd Prize 10,000 won in coffee<span class="Apple-converted-space">&nbsp;&nbsp;</span>gift-card</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">-</p>
+            </td>
+            <td class="td1" valign="middle">
+                <p class="p1">in**@kaist.ac.kr</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
