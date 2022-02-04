@@ -123,8 +123,7 @@ KAIST 대학원 총학생회 중앙선거관리위원회 제50대 대학원 총�
                 <p class="p1">1차</p>
             </td>
             <td class="td1" valign="middle">
-                <p class="p1">1등 10만원 현금 (2명) /<span class="Apple-converted-space">&nbsp;</span></p>
-                <p class="p1">1st Prize<span class="Apple-converted-space">&nbsp;&nbsp;</span>100,000 won in cash</p>
+                <p class="p1">1등 10만원 현금 (2명)</p>
             </td>
             <td class="td1" valign="middle">
                 <p class="p1">-</p>
@@ -138,8 +137,7 @@ KAIST 대학원 총학생회 중앙선거관리위원회 제50대 대학원 총�
                 <p class="p1">1차</p>
             </td>
             <td class="td1" valign="middle">
-                <p class="p1">1등 10만원 현금 (2명) /<span class="Apple-converted-space">&nbsp;</span></p>
-                <p class="p1">1st Prize 100,000 won in cash</p>
+                <p class="p1">1등 10만원 현금 (2명)</p>
             </td>
             <td class="td1" valign="middle">
                 <p class="p1">-</p>
@@ -153,8 +151,7 @@ KAIST 대학원 총학생회 중앙선거관리위원회 제50대 대학원 총�
                 <p class="p1">1차</p>
             </td>
             <td class="td1" valign="middle">
-                <p class="p1">2등 3만원 상당 문화 상품권 (5명) /<span class="Apple-converted-space">&nbsp;</span></p>
-                <p class="p1">2nd Prize 30,000 won in gift-card</p>
+                <p class="p1">2등 3만원 상당 문화 상품권 (5명)</p>
             </td>
             <td class="td1" valign="middle">
                 <p class="p1">-</p>
@@ -168,8 +165,7 @@ KAIST 대학원 총학생회 중앙선거관리위원회 제50대 대학원 총�
                 <p class="p1">1차</p>
             </td>
             <td class="td1" valign="middle">
-                <p class="p1">2등 3만원 상당 문화 상품권 (5명) /<span class="Apple-converted-space">&nbsp;</span></p>
-                <p class="p1">2nd Prize 30,000 won in gift-card</p>
+                <p class="p1">2등 3만원 상당 문화 상품권 (5명)</p>
             </td>
             <td class="td1" valign="middle">
                 <p class="p1">-</p>
@@ -183,8 +179,7 @@ KAIST 대학원 총학생회 중앙선거관리위원회 제50대 대학원 총�
                 <p class="p1">1차</p>
             </td>
             <td class="td1" valign="middle">
-                <p class="p1">3등 1만원 상당 커피 상품권 (25명) /<span class="Apple-converted-space">&nbsp;</span></p>
-                <p class="p1">3rd Prize 10,000 won in coffee<span class="Apple-converted-space">&nbsp;&nbsp;</span>gift-card</p>
+                <p class="p1">3등 1만원 상당 커피 상품권 (25명)</p>
             </td>
             <td class="td1" valign="middle">
                 <p class="p1">-</p>
@@ -198,8 +193,7 @@ KAIST 대학원 총학생회 중앙선거관리위원회 제50대 대학원 총�
                 <p class="p1">1차</p>
             </td>
             <td class="td1" valign="middle">
-                <p class="p1">3등 1만원 상당 커피 상품권 (25명) /<span class="Apple-converted-space">&nbsp;</span></p>
-                <p class="p1">3rd Prize 10,000 won in coffee<span class="Apple-converted-space">&nbsp;&nbsp;</span>gift-card</p>
+                <p class="p1">3등 1만원 상당 커피 상품권 (25명)</p>
             </td>
             <td class="td1" valign="middle">
                 <p class="p1">-</p>
@@ -213,8 +207,7 @@ KAIST 대학원 총학생회 중앙선거관리위원회 제50대 대학원 총�
                 <p class="p1">1차</p>
             </td>
             <td class="td1" valign="middle">
-                <p class="p1">3등 1만원 상당 커피 상품권 (25명) /<span class="Apple-converted-space">&nbsp;</span></p>
-                <p class="p1">3rd Prize 10,000 won in coffee<span class="Apple-converted-space">&nbsp;&nbsp;</span>gift-card</p>
+                <p class="p1">3등 1만원 상당 커피 상품권 (25명)</p>
             </td>
             <td class="td1" valign="middle">
                 <p class="p1">-</p>
@@ -228,8 +221,7 @@ KAIST 대학원 총학생회 중앙선거관리위원회 제50대 대학원 총�
                 <p class="p1">1차</p>
             </td>
             <td class="td1" valign="middle">
-                <p class="p1">3등 1만원 상당 커피 상품권 (25명) /<span class="Apple-converted-space">&nbsp;</span></p>
-                <p class="p1">3rd Prize 10,000 won in coffee<span class="Apple-converted-space">&nbsp;&nbsp;</span>gift-card</p>
+                <p class="p1">3등 1만원 상당 커피 상품권 (25명)</p>
             </td>
             <td class="td1" valign="middle">
                 <p class="p1">-</p>
@@ -243,14 +235,13 @@ KAIST 대학원 총학생회 중앙선거관리위원회 제50대 대학원 총�
                 <p class="p1">1차</p>
             </td>
             <td class="td1" valign="middle">
-                <p class="p1">3등 1만원 상당 커피 상품권 (25명) /<span class="Apple-converted-space">&nbsp;</span></p>
-                <p class="p1">3rd Prize 10,000 won in coffee<span class="Apple-converted-space">&nbsp;&nbsp;</span>gift-card</p>
+                <p class="p1">3등 1만원 상당 커피 상품권 (25명)</p>
             </td>
             <td class="td1" valign="middle">
                 <p class="p1">-</p>
             </td>
             <td class="td1" valign="middle">
-                <p class="p2"><a href="mailto:shkong@kaist.ac.kr">sh**@kaist.ac.kr</a></p>
+                <p class="p2">sh**@kaist.ac.kr</a></p>
             </td>
         </tr>
         <tr>
@@ -258,8 +249,7 @@ KAIST 대학원 총학생회 중앙선거관리위원회 제50대 대학원 총�
                 <p class="p1">1차</p>
             </td>
             <td class="td1" valign="middle">
-                <p class="p1">3등 1만원 상당 커피 상품권 (25명) /<span class="Apple-converted-space">&nbsp;</span></p>
-                <p class="p1">3rd Prize 10,000 won in coffee<span class="Apple-converted-space">&nbsp;&nbsp;</span>gift-card</p>
+                <p class="p1">3등 1만원 상당 커피 상품권 (25명)</p>
             </td>
             <td class="td1" valign="middle">
                 <p class="p1">-</p>
@@ -273,8 +263,7 @@ KAIST 대학원 총학생회 중앙선거관리위원회 제50대 대학원 총�
                 <p class="p1">1차</p>
             </td>
             <td class="td1" valign="middle">
-                <p class="p1">3등 1만원 상당 커피 상품권 (25명) /<span class="Apple-converted-space">&nbsp;</span></p>
-                <p class="p1">3rd Prize 10,000 won in coffee<span class="Apple-converted-space">&nbsp;&nbsp;</span>gift-card</p>
+                <p class="p1">3등 1만원 상당 커피 상품권 (25명)</p>
             </td>
             <td class="td1" valign="middle">
                 <p class="p1">-</p>
@@ -288,8 +277,7 @@ KAIST 대학원 총학생회 중앙선거관리위원회 제50대 대학원 총�
                 <p class="p1">1차</p>
             </td>
             <td class="td1" valign="middle">
-                <p class="p1">3등 1만원 상당 커피 상품권 (25명) /<span class="Apple-converted-space">&nbsp;</span></p>
-                <p class="p1">3rd Prize 10,000 won in coffee<span class="Apple-converted-space">&nbsp;&nbsp;</span>gift-card</p>
+                <p class="p1">3등 1만원 상당 커피 상품권 (25명)</p>
             </td>
             <td class="td1" valign="middle">
                 <p class="p1">-</p>
@@ -303,8 +291,7 @@ KAIST 대학원 총학생회 중앙선거관리위원회 제50대 대학원 총�
                 <p class="p1">1차</p>
             </td>
             <td class="td1" valign="middle">
-                <p class="p1">3등 1만원 상당 커피 상품권 (25명) /<span class="Apple-converted-space">&nbsp;</span></p>
-                <p class="p1">3rd Prize 10,000 won in coffee<span class="Apple-converted-space">&nbsp;&nbsp;</span>gift-card</p>
+                <p class="p1">3등 1만원 상당 커피 상품권 (25명)</p>
             </td>
             <td class="td1" valign="middle">
                 <p class="p1">-</p>
@@ -318,8 +305,7 @@ KAIST 대학원 총학생회 중앙선거관리위원회 제50대 대학원 총�
                 <p class="p1">1차</p>
             </td>
             <td class="td1" valign="middle">
-                <p class="p1">3등 1만원 상당 커피 상품권 (25명) /<span class="Apple-converted-space">&nbsp;</span></p>
-                <p class="p1">3rd Prize 10,000 won in coffee<span class="Apple-converted-space">&nbsp;&nbsp;</span>gift-card</p>
+                <p class="p1">3등 1만원 상당 커피 상품권 (25명)</p>
             </td>
             <td class="td1" valign="middle">
                 <p class="p1">-</p>
@@ -333,8 +319,7 @@ KAIST 대학원 총학생회 중앙선거관리위원회 제50대 대학원 총�
                 <p class="p1">1차</p>
             </td>
             <td class="td1" valign="middle">
-                <p class="p1">3등 1만원 상당 커피 상품권 (25명) /<span class="Apple-converted-space">&nbsp;</span></p>
-                <p class="p1">3rd Prize 10,000 won in coffee<span class="Apple-converted-space">&nbsp;&nbsp;</span>gift-card</p>
+                <p class="p1">3등 1만원 상당 커피 상품권 (25명)</p>
             </td>
             <td class="td1" valign="middle">
                 <p class="p1">-</p>
@@ -348,8 +333,7 @@ KAIST 대학원 총학생회 중앙선거관리위원회 제50대 대학원 총�
                 <p class="p1">1차</p>
             </td>
             <td class="td1" valign="middle">
-                <p class="p1">3등 1만원 상당 커피 상품권 (25명) /<span class="Apple-converted-space">&nbsp;</span></p>
-                <p class="p1">3rd Prize 10,000 won in coffee<span class="Apple-converted-space">&nbsp;&nbsp;</span>gift-card</p>
+                <p class="p1">3등 1만원 상당 커피 상품권 (25명)</p>
             </td>
             <td class="td1" valign="middle">
                 <p class="p1">-</p>
@@ -363,8 +347,7 @@ KAIST 대학원 총학생회 중앙선거관리위원회 제50대 대학원 총�
                 <p class="p1">1차</p>
             </td>
             <td class="td1" valign="middle">
-                <p class="p1">3등 1만원 상당 커피 상품권 (25명) /<span class="Apple-converted-space">&nbsp;</span></p>
-                <p class="p1">3rd Prize 10,000 won in coffee<span class="Apple-converted-space">&nbsp;&nbsp;</span>gift-card</p>
+                <p class="p1">3등 1만원 상당 커피 상품권 (25명)</p>
             </td>
             <td class="td1" valign="middle">
                 <p class="p1">-</p>
@@ -378,8 +361,7 @@ KAIST 대학원 총학생회 중앙선거관리위원회 제50대 대학원 총�
                 <p class="p1">1차</p>
             </td>
             <td class="td1" valign="middle">
-                <p class="p1">3등 1만원 상당 커피 상품권 (25명) /<span class="Apple-converted-space">&nbsp;</span></p>
-                <p class="p1">3rd Prize 10,000 won in coffee<span class="Apple-converted-space">&nbsp;&nbsp;</span>gift-card</p>
+                <p class="p1">3등 1만원 상당 커피 상품권 (25명)</p>
             </td>
             <td class="td1" valign="middle">
                 <p class="p1">-</p>
@@ -393,8 +375,7 @@ KAIST 대학원 총학생회 중앙선거관리위원회 제50대 대학원 총�
                 <p class="p1">1차</p>
             </td>
             <td class="td1" valign="middle">
-                <p class="p1">3등 1만원 상당 커피 상품권 (25명) /<span class="Apple-converted-space">&nbsp;</span></p>
-                <p class="p1">3rd Prize 10,000 won in coffee<span class="Apple-converted-space">&nbsp;&nbsp;</span>gift-card</p>
+                <p class="p1">3등 1만원 상당 커피 상품권 (25명)</p>
             </td>
             <td class="td1" valign="middle">
                 <p class="p1">-</p>
@@ -409,8 +390,7 @@ KAIST 대학원 총학생회 중앙선거관리위원회 제50대 대학원 총�
                 <p class="p1">1차</p>
             </td>
             <td class="td1" valign="middle">
-                <p class="p1">3등 1만원 상당 커피 상품권 (25명) /<span class="Apple-converted-space">&nbsp;</span></p>
-                <p class="p1">3rd Prize 10,000 won in coffee<span class="Apple-converted-space">&nbsp;&nbsp;</span>gift-card</p>
+                <p class="p1">3등 1만원 상당 커피 상품권 (25명)</p>
             </td>
             <td class="td1" valign="middle">
                 <p class="p1">-</p>
@@ -424,8 +404,7 @@ KAIST 대학원 총학생회 중앙선거관리위원회 제50대 대학원 총�
                 <p class="p1">2차</p>
             </td>
             <td class="td1" valign="middle">
-                <p class="p1">3등 1만원 상당 커피 상품권 (25명) /<span class="Apple-converted-space">&nbsp;</span></p>
-                <p class="p1">3rd Prize 10,000 won in coffee<span class="Apple-converted-space">&nbsp;&nbsp;</span>gift-card</p>
+                <p class="p1">3등 1만원 상당 커피 상품권 (25명)</p>
             </td>
             <td class="td1" valign="middle">
                 <p class="p1">-</p>
@@ -439,8 +418,7 @@ KAIST 대학원 총학생회 중앙선거관리위원회 제50대 대학원 총�
                 <p class="p1">2차</p>
             </td>
             <td class="td1" valign="middle">
-                <p class="p1">3등 1만원 상당 커피 상품권 (25명) /<span class="Apple-converted-space">&nbsp;</span></p>
-                <p class="p1">3rd Prize 10,000 won in coffee<span class="Apple-converted-space">&nbsp;&nbsp;</span>gift-card</p>
+                <p class="p1">3등 1만원 상당 커피 상품권 (25명)</p>
             </td>
             <td class="td1" valign="middle">
                 <p class="p1">-</p>
@@ -451,4 +429,3 @@ KAIST 대학원 총학생회 중앙선거관리위원회 제50대 대학원 총�
         </tr>
     </tbody>
 </table>
-
